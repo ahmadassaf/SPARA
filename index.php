@@ -69,11 +69,12 @@
 		</div>
 	</div>
 </body>
+<script language="javascript" type="text/javascript" src="js/nicescroll.js"></script>
 <script language="javascript" type="text/javascript" src="js/classie.js"></script>
 <script language="javascript" type="text/javascript" src="js/uisearch.js"></script>
 <script language="javascript" type="text/javascript" src="js/jit-yc.js"></script>
-<script language="javascript" type="text/javascript" src="js/jquery.expander.min.js"></script>
 <script language="javascript" type="text/javascript" src="js/modernizr.custom.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.expander.min.js"></script>
 <script language="javascript" type="text/javascript" src="js/nicescroll.js"></script>
 <script language="javascript" type="text/javascript" src="js/modal.js"></script>
 <script type='text/javascript'>
